@@ -8,7 +8,7 @@
 https://github.com/udacity/CarND-Vehicle-Detection
 
 ### Project Overview
-In this project, I wrote a software pipeline to detect vehicles in a [video](https://drive.google.com/open?id=0B0agIiDyIPj1aDJYWmVNSjRPMUU).
+In this project, I wrote a software pipeline to detect vehicles in a [video](https://youtu.be/unE9A5T9B0Q).
 
 ### Output video
 
